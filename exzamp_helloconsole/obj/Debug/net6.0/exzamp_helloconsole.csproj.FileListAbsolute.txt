@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\bin\Debug\net6.0\exzamp_helloconsole.exe
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\bin\Debug\net6.0\exzamp_helloconsole.deps.json
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\bin\Debug\net6.0\exzamp_helloconsole.runtimeconfig.json
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\bin\Debug\net6.0\exzamp_helloconsole.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\bin\Debug\net6.0\exzamp_helloconsole.pdb
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.AssemblyInfo.cs
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\refint\exzamp_helloconsole.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.pdb
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\exzamp_helloconsole.genruntimeconfig.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp_helloconsole\obj\Debug\net6.0\ref\exzamp_helloconsole.dll
