@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello, ");
+﻿string username = Console.Readkey();
+Console.WriteLine("Hello, ");
 Console.WriteLine("username");
