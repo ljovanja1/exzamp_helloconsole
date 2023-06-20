@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\bin\Debug\net6.0\exzamp002_hellouser.exe
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\bin\Debug\net6.0\exzamp002_hellouser.deps.json
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\bin\Debug\net6.0\exzamp002_hellouser.runtimeconfig.json
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\bin\Debug\net6.0\exzamp002_hellouser.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\bin\Debug\net6.0\exzamp002_hellouser.pdb
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.AssemblyInfo.cs
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\refint\exzamp002_hellouser.dll
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.pdb
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\exzamp002_hellouser.genruntimeconfig.cache
+C:\Users\Роман\Desktop\Geekbrains git\exzamp\exzamp002_hellouser\obj\Debug\net6.0\ref\exzamp002_hellouser.dll
